@@ -38,7 +38,7 @@ Toda la documentación técnica detallada se encuentra organizada en la carpeta 
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone https://github.com
+   git clone https://github.com/CarlosIbanez36/taskify
    cd taskify
    ```
 
