@@ -19,7 +19,6 @@ Aplicación web desarrollada en **React** y desplegada en **Firebase** (Authenti
 ## 🛠️ Stack Tecnológico
 
 * **Frontend:** React (JSX, Hooks: `useState`, `useEffect`, `useContext`)
-* **Estilos:** Tailwind CSS
 * **Enrutamiento:** React Router DOM
 * **Backend as a Service (BaaS):** Firebase (Authentication y Cloud Firestore)
 * **Hosting:** Firebase Hosting
