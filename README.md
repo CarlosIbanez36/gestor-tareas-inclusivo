@@ -31,7 +31,6 @@ Aplicación web desarrollada en **React** y desplegada en **Firebase** (Authenti
 Toda la documentación técnica detallada se encuentra organizada en la carpeta `docs/`:
 
 * **[Arquitectura y Componentes (`docs/architecture.md`)](docs/architecture.md):** Estructura de carpetas de `src/` y catálogo de componentes.
-* **[Especificación de Funcionalidades (`docs/features.md`)](docs/features.md):** Alcance del MVP (imprescindibles) y roadmap de funcionalidades adicionales y futuras.
 * **[Modelo de Datos (`docs/database.md`)](docs/database.md):** Estructura de colecciones y documentos en Cloud Firestore.
 
 ---
